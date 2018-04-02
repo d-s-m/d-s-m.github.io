@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Application>
+    <Stable>
+        <AppName>GetTube</AppName>
+        <Version>v0.7.5</Version>
+        <VersionCode>705</VersionCode>
+        <URL>http://dsmudhar.github.io/GetTube/v0.7.5.apk</URL>
+    </Stable>
+</Application>
