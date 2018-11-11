@@ -2,8 +2,8 @@
 <Application>
     <Stable>
         <AppName>GetTube</AppName>
-        <Version>v0.8.2.0</Version>
-        <VersionCode>80200</VersionCode>
+        <Version>v0.8.2.1</Version>
+        <VersionCode>80210</VersionCode>
         <URL>https://github.com/d-s-m/d-s-m.github.io/raw/master/gettube/latest.apk</URL>
     </Stable>
 </Application>
