@@ -9,13 +9,13 @@
     <Beta>
         <AppName>GetTube</AppName>
         <Version>v0.8.3.0</Version>
-        <VersionCode>89052</VersionCode>
+        <VersionCode>80300</VersionCode>
         <URL>https://github.com/d-s-m/d-s-m.github.io/raw/master/gettube/latest/beta.apk</URL>
     </Beta>
     <Alpha>
         <AppName>GetTube</AppName>
         <Version>v0.9-alpha6</Version>
-        <VersionCode>89050</VersionCode>
+        <VersionCode>89051</VersionCode>
         <URL>https://github.com/d-s-m/d-s-m.github.io/raw/master/gettube/latest/alpha.apk</URL>
     </Alpha>
 </Application>
